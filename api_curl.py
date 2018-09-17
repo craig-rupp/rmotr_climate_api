@@ -4,7 +4,7 @@ import csv
 
 
 from skywiseinsight import InsightResource
-
+print('hello')
 InsightResource.set_user('ebe2c339')
 InsightResource.set_password('5c0bf7f167fbc08e79d6ba767abdefea')
 
